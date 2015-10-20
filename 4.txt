@@ -2,3 +2,4 @@ dsfdsfdsf
 dev branch
 master
 dev
+git stash list
