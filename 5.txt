@@ -1,1 +1,3 @@
 my ubuntu host write the first file
+my git checkout -- fileName test
+
